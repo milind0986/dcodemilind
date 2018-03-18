@@ -8,3 +8,6 @@ The width=device-width part sets the width of the page to follow the screen-widt
 The initial-scale=1.0 part sets the initial zoom level when the page is first loaded by the browser.
 
 The Bootstrap grid system has four classes: xs (phones), sm (tablets), md (desktops), and lg (larger desktops). The classes can be combined to create more dynamic and flexible layouts.
+
+Directives :: Custom HTML element or attributeused to power up and extend our existing html. 2 types Custom or BuiltIn
+
